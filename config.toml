@@ -1,4 +1,4 @@
-baseURL = "https://blog.urbanswati.co.za/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-gb"
 title = "UrbanSwati Tech Blog"
 theme = "hugo-theme-nix"
