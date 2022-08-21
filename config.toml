@@ -1,17 +1,19 @@
-baseURL = 'http://localhost:1313/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://blog.urbanswati.co.za/"
+languageCode = "en-gb"
+title = "UrbanSwati Tech Blog"
 theme = "hugo-theme-nix"
 nocomments = true
-
 [params]
+  author = "William Maphanga"
+  description = "Tech Blog"
   Name = "William Maphanga"
   HeaderUsername = "william"
   HeaderHostname = "urbanswati"
-  About = "Self-motivated technical programmer, seeking wide experience of working in the front line of coding technical applications and solving complex IT issues"
+  About = "Tech blog for self-motivated technical programmer, seeking wide experience of working in the front line of coding technical applications and solving complex software issues."
   ProfilePicture = "https://avatars.githubusercontent.com/u/30931804?s=400&u=8b8f4fd2a78268af8cecdfa8fb964a8ff28becd5&v=4"
   Email = "williesdk@gmail.com"
   GithubID = "UrbanSwati"
+  MediumID = "urbanswati"
 
 [menu]
   [[menu.header]]
