@@ -14,9 +14,14 @@ nocomments = true
   Email = "williesdk@gmail.com"
   GithubID = "UrbanSwati"
   MediumID = "urbanswati"
+  BuyMeCoffeeID = "urbanswati"
 
 [menu]
   [[menu.header]]
-    name = "posts"
+    name = "about"
     weight = 1
+    url = "/about"
+  [[menu.header]]
+    name = "posts"
+    weight = 2
     url = "/posts"
